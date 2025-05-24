@@ -9,7 +9,7 @@ echo "Installing dependencies..."
 python3 -m pip install -r requirements.txt
 
 echo "Running main program..."
-python3 TrainedVideoGIF.py
+python3 main.py
 
 echo "All tasks completed successfully."
 read -rp "Press Enter to exit the program..."
