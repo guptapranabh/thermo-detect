@@ -11,6 +11,7 @@
 - [What the current project can/cannot do](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#what-the-current-project-cancannot-do)
 - [Getting started](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#getting-started)
 - [Installation](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#installation-and-running)
+- [How to use](https://github.com/guptapranabh/thermo-detect#how-to-usehttps://github.com/guptapranabh/thermo-detect#how-to-use)
 - [Acknowledgements](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#acknowledgements)
 ---
 ## Overview
