@@ -118,7 +118,7 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 ## Important terms to know about
 
-- What is confidence threshold?
+- **What is confidence threshold?**
 
   This score, typically ranging from 0 to 1 (or 0% to 100%), represents how certain the model is that an object of a particular class actually exists within that bounding box. A score of 1 means the model is highly certain, while a score closer to 0 means it's very uncertain.
 
@@ -129,7 +129,7 @@ Copy and paste the link on your web browser and it should open a WebUI where you
  
 
 
-- What is IoU threshold?
+- **What is IoU threshold?**
 
   Intersection over Union (IoU) is a metric used to quantify the overlap between two bounding boxes
 
