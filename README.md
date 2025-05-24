@@ -4,6 +4,11 @@
 
 ---
 
+## Index
+
+- [Overview](##Overview)
+
+---
 ## Overview
 
 **thermo-detect** uses thermal camera input to:
