@@ -11,7 +11,8 @@
 - [What the current project can/cannot do](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#what-the-current-project-cancannot-do)
 - [Getting started](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#getting-started)
 - [Installation](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#installation-and-running)
-- [How to use](https://github.com/guptapranabh/thermo-detect#how-to-usehttps://github.com/guptapranabh/thermo-detect#how-to-use)
+- [How to use](https://github.com/guptapranabh/thermo-detect#how-to-use)
+- [Important terms to know about](https://github.com/guptapranabh/thermo-detect#important-terms-to-know-about)
 - [Acknowledgements](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#acknowledgements)
 ---
 ## Overview
@@ -102,7 +103,7 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 ## How to use
 
-- AFter pasting the link in your web browser, you should see a simple UI.
+- After pasting the link in your web browser, you should see a simple UI.
   
 - On the left, there is a box where you can upload a thermal video of the machinery you want to check.
   There are different videos provided in the `Videos for testing` folder for you to choose from.
@@ -126,6 +127,7 @@ Copy and paste the link on your web browser and it should open a WebUI where you
     - Higher Threshold (e.g., 0.8): You'll get fewer detections, but the ones you do get will be highly certain. This reduces false positives (the model saying something is there when it isn't), leading to higher precision. However, it might also miss some actual objects that the model was less certain about (lower recall).
     - Lower Threshold (e.g., 0.2): You'll get more detections, including less certain ones. This increases recall (fewer missed objects) but might also increase false positives (more "ghost" detections or incorrect classifications), leading to lower precision.
  
+
 
 - What is IoU threshold?
 
