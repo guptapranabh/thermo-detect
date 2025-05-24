@@ -35,7 +35,7 @@ Ideal for **hardware diagnostics**, **industrial automation**, **robotics**, and
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ThermoDetect.git
+git clone https://github.com/guptapranabh/thermo-detect.git
 ```
 
 Run `run_linux.sh` on your linux terminal or paste the following in your console:
