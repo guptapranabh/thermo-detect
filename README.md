@@ -6,7 +6,7 @@
 
 ## Index
 
-- [Overview](##Overview)
+- [Overview](https://github.com/guptapranabh/thermo-detect?tab=readme-ov-file#overview)
 
 ---
 ## Overview
