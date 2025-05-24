@@ -38,11 +38,20 @@ Clone the repository:
 git clone https://github.com/guptapranabh/thermo-detect.git
 ```
 
-Run `run_linux.sh` on your linux terminal or paste the following in your console:
+**For Linux:**
 
+Run `run_linux.sh` on your linux terminal or paste the following set of commands in your console:
+
+Make the shell file `run_linux.sh` executable by running the command below:
 ```bash
-./ run_linux.sh
+chmod +x ./run_linux.sh
 ```
+
+After that, run the program by running the command below:
+```bash
+./run_linux.sh
+```
+
 
 Run `run_windows.bat` on your Windows system by simply double clicking on it.
 
