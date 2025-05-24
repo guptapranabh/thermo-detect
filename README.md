@@ -101,6 +101,6 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 ## Acknowledgements
 
-- The model on which Thermal Detect is based is the Yolo V8 model by [Ultralytics](https://github.com/ultralytics/ultralytics)
+- The model on which Thermal Detect is based on is the Yolo V8 model by [Ultralytics](https://github.com/ultralytics/ultralytics)
 
 ---
