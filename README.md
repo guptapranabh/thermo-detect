@@ -52,11 +52,13 @@ After that, start the program by running the command below:
 ./run_linux.sh
 ```
 
+**For Windows:**
 
 Run `run_windows.bat` on your Windows system by simply double clicking on it.
 
 
 
+After running the respective scripts:
 
 This will open a terminal and start downloading all the neccessary dependencies and start a server, typically on port `http://127.0.0.1:7860/`
 
