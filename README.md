@@ -44,4 +44,7 @@ Run `run_linux.sh` on your linux terminal or paste the following in your console
 ./ run_linux.sh
 ```
 
-Run `run_windows.bat` on your Windows system
+Run `run_windows.bat` on your Windows system by simply double clicking on it.
+
+
+This will open a terminal and start downloading all the neccessary dependencies and start a server, typically on port `http://127.0.0.1:7860/`
