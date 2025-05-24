@@ -38,6 +38,10 @@ Clone the repository:
 git clone https://github.com/yourusername/ThermoDetect.git
 ```
 
-Run `run_linux.sh` on your linux terminal
+Run `run_linux.sh` on your linux terminal or paste the following in your console:
+
+```bash
+./ run_linux.sh
+```
 
 Run `run_windows.bat` on your Windows system
