@@ -49,6 +49,8 @@ Ideal for **hardware diagnostics**, **industrial automation**, **robotics**, and
   hence a custom dataset must be used for each individual equipment.
   As the scope of this project increases, these issues will be resolved
 
+- Does not explicitly support MacOS yet, although it should technically work if you are an experienced developer
+
 ## Getting Started
 
 ### Prerequisites
