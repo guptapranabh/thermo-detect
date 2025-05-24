@@ -12,4 +12,4 @@ echo "Running main program..."
 python3 TrainedVideoGIF.py
 
 echo "All tasks completed successfully."
-read -rp "Press Enter to exit..."
+read -rp "Press Enter to exit the program..."
