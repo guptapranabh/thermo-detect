@@ -99,7 +99,7 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 ---
 
-How to use
+## How to use
 
 - AFter pasting the link in your web browser, you should see a simple UI.
 - On the left
