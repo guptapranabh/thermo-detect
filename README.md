@@ -55,9 +55,9 @@ After that, start the program by running the command below:
 **For Windows:**
 
 Run `run_windows.bat` on your Windows system by simply double clicking on it.
- 
- 
- 
+
+
+
 After running the respective scripts:
 
   
