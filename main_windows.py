@@ -108,8 +108,8 @@ iface_video = gr.Interface(
     fn=predict_video,
     inputs=[
         gr.File(label="Upload Video"),
-        gr.Slider(minimum=0, maximum=1, value=0.25, label="Confidence Threshold"),
-        gr.Slider(minimum=0, maximum=1, value=0.45, label="IoU Threshold"),
+        gr.Slider(minimum=0, maximum=1, value=0.50, label="Confidence Threshold"),
+        gr.Slider(minimum=0, maximum=1, value=0.50, label="IoU Threshold"),
     ],
     outputs=[
         gr.Image(label="Results after observation"),
