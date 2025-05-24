@@ -19,10 +19,26 @@ Ideal for **hardware diagnostics**, **industrial automation**, **robotics**, and
 ## Features
 
 - AI root cause detection
-- Visual output with boundiing boxes on overheating parts of the component
+- Visual output with bounding boxes on overheating parts of the component
 - Provides diagnostic report and actionable output
 
 ---
+
+## What the current project can/cannot do:
+
+
+### Can do:
+
+- Accurately detect failures 
+- Provide proper insights
+
+### Cannot do:
+
+- Detect other machinery that is currently out of the trained dataset
+
+  This is partially because complex industrial machinery do not generally overlap with each other,
+  hence a custom dataset must be used for each individual equipment.
+  As the scope of this project increases, these issues will be resolved
 
 ## Getting Started
 
