@@ -95,3 +95,12 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 
 **Example videos have been provided for the user to test the AI model on.**
+
+
+---
+
+## Acknowledgements
+
+- The model on which Thermal Detect is based is the Yolo V8 model by [Ultralytics](https://github.com/ultralytics/ultralytics)
+
+---
