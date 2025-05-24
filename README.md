@@ -47,7 +47,7 @@ Make the shell file `run_linux.sh` executable by running the command below:
 chmod +x ./run_linux.sh
 ```
 
-After that, run the program by running the command below:
+After that, start the program by running the command below:
 ```bash
 ./run_linux.sh
 ```
