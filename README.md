@@ -40,7 +40,7 @@ git clone https://github.com/guptapranabh/thermo-detect.git
 
 **For Linux:**
 
-Run `run_linux.sh` on your linux terminal or paste the following set of commands in your console:
+Run `run_linux.sh` on your linux terminal or paste the following set of commands in your console inside the thermo-detect directory:
 
 Make the shell file `run_linux.sh` executable by running the command below:
 ```bash
