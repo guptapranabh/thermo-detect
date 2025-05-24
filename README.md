@@ -1,1 +1,1 @@
-# smart-thermal-imaging-malfunction-detector
+# thermo-detect
