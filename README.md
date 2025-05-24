@@ -99,6 +99,15 @@ Copy and paste the link on your web browser and it should open a WebUI where you
 
 ---
 
+How to use
+
+- AFter pasting the link in your web browser, you should see a simple UI.
+- On the left
+
+
+
+---
+
 ## Acknowledgements
 
 - The model on which Thermal Detect is based on is the Yolo V8 model by [Ultralytics](https://github.com/ultralytics/ultralytics)
