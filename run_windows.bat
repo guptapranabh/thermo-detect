@@ -2,7 +2,7 @@
 
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
-python TrainedVideoGIF.py
+python main.py
 
 echo Done!
 pause
