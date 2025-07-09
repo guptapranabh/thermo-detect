@@ -1,6 +1,6 @@
 #!/bin/bash
 
-set -e  # Exit on error
+set -e
 
 echo "Upgrading pip..."
 python3 -m pip install --upgrade pip
